@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 📱 My Blog
-<a href="https://juejin.im/user/3465271791595133/posts">掘金@落霞不孤</a>
+* <a href="https://juejin.im/user/3465271791595133/posts">掘金@落霞不孤</a>
 
 [![Roroldo's github stats](https://github-readme-stats.vercel.app/api?username=Roroldo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roroldo&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
