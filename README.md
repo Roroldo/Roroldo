@@ -1,4 +1,4 @@
-👋 Hi, 我是 Roroldo，笔名落霞不孤！目前是个在读大三软件专业的学生，正在为成为 Java 后端工程师而努力自学中。路漫漫其修远兮，吾将上下而求索~ 
+👋 Hi, 我是 Roroldo，笔名落霞不孤！目前是个在读大三软件专业的学生，正在为成为 Java 后端开发工程师而努力自学中。路漫漫其修远兮，要加油啊~ 
 
 <!--
 **Roroldo/Roroldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
