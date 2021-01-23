@@ -1,4 +1,4 @@
-### Hi there, I'm Roroldo! 👋
+👋 Hi, 我是 Roroldo，笔名落霞不孤！目前是个在读大三软件专业的学生，正在为成为 Java 后端工程师而努力自学中。路漫漫其修远兮，吾将上下而求索~ 
 
 <!--
 **Roroldo/Roroldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📱 My Blog
+<a href="https://juejin.im/user/3465271791595133/posts">掘金@落霞不孤</a>
+
 [![Roroldo's github stats](https://github-readme-stats.vercel.app/api?username=Roroldo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roroldo&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
